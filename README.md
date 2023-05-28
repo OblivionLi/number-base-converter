@@ -43,6 +43,6 @@
 * Enter two numbers in format: {source base} {target base} (To quit type /exit) > /exit
 ---
 
-##### If you are wondering why this line `Enter two numbers in format: {source base} {target base} (To quit type /exit) > {source base} {target base}` shows only once, is because the {source base} and {target base} is saved until the user types /back and needs to add the again (different, or same values)
+##### If you are wondering why this line `Enter two numbers in format: {source base} {target base} (To quit type /exit) > {source base} {target base}` shows only once, is because the {source base} and {target base} is saved until the user types /back and needs to add them again (different, or same values)
 
 ##### If you want more info about converting decimals, read about converting decimals and/or fractions to binary (base 2); this app converts from any base between 2 and 36
